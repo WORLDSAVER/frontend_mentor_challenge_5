@@ -1,0 +1,170 @@
+/* TAG CSS */
+
+body
+{
+  background-color:hsl(300, 24%, 96%);
+  font-size:15px;
+  font-family: 'Spartan', sans-serif;
+  margin: 0;
+}
+
+h1
+{
+  font-size:48px;
+  margin: 0;
+  line-height: 48px;
+}
+
+p
+{
+  margin:0;
+}
+
+
+/* CLASS CSS */
+
+.card
+{
+  width:1000px;
+  height:400px;
+  position: absolute;
+  left:80px;
+  top:30px;
+
+}
+.stars
+{
+  display:inline-block;
+}
+.inline_block
+{
+  display: inline-block;
+  position: relative;
+  left:30px;
+}
+.rating_card
+{
+  background-color:hsl(300deg 21% 90%);
+  width:350.4px;
+  padding:13px 25px 13px 25px;
+  border-radius: 8px;
+  position: relative;
+  top:-200px;
+  left:600px;
+
+}
+.rating_card_2{
+  top:-180px;
+  left: 640px;
+}
+
+.rating_card_3
+{
+  top:-160px;
+  left:680px;
+}
+
+.ratings
+{
+  font-size:13px;
+}
+
+.purple
+{
+  color:hsl(300, 43%, 22%);
+}
+
+.bold
+{
+  font-weight:bold;
+}
+
+.review_img
+{
+  border-radius:100%;
+  height:45px;
+  float:left;
+}
+
+.name
+{
+  font-weight:bold;
+  position: relative;
+  left:20px;
+  top:5.5px;
+  color:white;
+  font-size:13px;
+
+}
+
+.tag
+{
+  position:relative;
+  left:20px;
+  top:9.5px;
+  color:hsl(303, 10%, 53%);
+  font-size:13px;
+}
+
+.review
+{
+  position:relative;
+  top:15px;
+  color:hsl(300, 24%, 96%);
+  font-weight: 500;
+  display: inline;
+  font-size:12px;
+  line-height: 20px;
+
+}
+.reviews
+{
+  background-color:hsl(300, 43%, 22%);
+  width:266.633px;
+  height:139.5px;
+  border-radius:8px;
+  padding: 30px;
+  position: relative;
+  margin-top:-60px;
+  display: inline-block;
+
+}
+
+.review1
+{
+  top:20px;
+  left:20px;
+}
+
+.review2
+{
+  top:40px;
+  left:40px;
+}
+
+.bg-top
+{
+  position:absolute;
+  margin-left:-200px;
+
+}
+
+.bg-bottom
+{
+  position: absolute;
+  margin-top:200px;
+}
+/* ID CSS */
+
+
+#main_heading
+{
+  margin-bottom:15px;
+
+}
+
+#top_para
+{
+  color:hsl(303, 10%, 53%);
+  line-height:25px;
+}
